@@ -1,4 +1,4 @@
-package org.keyboardplaying.trello.archiver;
+package org.keyboardplaying.trello;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

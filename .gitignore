@@ -1,4 +1,4 @@
-# Maven
+### Maven ###
 /target/
 pom.xml.tag
 pom.xml.releaseBackup
@@ -16,3 +16,7 @@ release.properties
 .settings/
 .classpath
 .project
+
+### Misc. ###
+
+/*.log
